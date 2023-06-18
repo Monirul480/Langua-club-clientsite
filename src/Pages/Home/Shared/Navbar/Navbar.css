@@ -1,0 +1,15 @@
+li{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.dark-theme {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .light-theme {
+    background-color: #fff;
+    color: #333;
+  }
+ 

@@ -1,0 +1,12 @@
+a:hover {
+    color: rgb(50, 108, 54);
+    text-decoration: none;
+  }
+
+a{
+    font-size: 16px;
+    font-weight: 600;
+}
+svg:hover{
+  cursor: pointer
+}
